@@ -1,0 +1,1 @@
+brand = apple - price = descend - prc_cnt = 4 - dir = data
